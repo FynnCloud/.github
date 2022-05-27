@@ -1,4 +1,4 @@
-## Hi there 👋
+## FynnCloud
 
 ❓ Was sind wir überhaupt?
 
