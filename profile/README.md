@@ -1,7 +1,7 @@
 ## FynnCloud
 
-❓ Was sind wir überhaupt?
+❓ Was ist FynnCloud überhaupt
 
-👩‍🔧 Wir sind ein Minecraft Server Hoster
+👩‍🔧 Wir sind ein guter Minecraft Server Hoster der Server für euch und für kleine Streamer anbietet
 
-🤝 Wir sind mit dem Minecraft Server Fynncraft gepartnert
+🤝 Unser Partner ist der sehr gute Minecraft Server Fynncraft
